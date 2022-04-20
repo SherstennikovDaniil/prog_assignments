@@ -4,7 +4,7 @@
  ширине, и метод, который будет вычислять площадь прямоугольника
  
  ---
- ```
+ ```python
  class Rectangle:
     def __init__(self, width, height):
         self.width = width
