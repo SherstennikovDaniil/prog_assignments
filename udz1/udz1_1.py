@@ -5,3 +5,9 @@ class Rectangle:
 
     def area(self):
         return self.width * self.height
+
+
+x = 3
+y = 4
+rectangle = Rectangle(x, y)
+rectangle.area()  # 12
